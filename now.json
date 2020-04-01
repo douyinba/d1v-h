@@ -1,6 +1,6 @@
 {
   "version": 2,
   "routes": [
-  	{"src": "/(.*)","dest": "http://wp.cao8.ml$1"}
+  	{"src": "/(.*)","dest": "http://wp.cao8.ml/$1"}
   ]
 }
