@@ -1,6 +1,6 @@
 {
   "version": 2,
   "routes": [
-  	{"src": "/(.*)","dest": "https://e1v-h.phncdn.com$1"}
+  	{"src": "/(.*)","dest": "http://142.54.177.218$1"}
   ]
 }
